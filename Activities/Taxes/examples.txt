@@ -1,0 +1,101 @@
+Example 1
+What is your income: 100000
+For federal taxes:
+You will need to pay $7529.55(15.00%) on the first $50197.00
+You will need to pay $10209.61(20.50%) on the next $49803.00
+For provincial taxes:
+You will need to pay $2179.34(5.06%) on the first $43070.00
+You will need to pay $3316.47(7.70%) on the next $43071.00
+You will need to pay $1339.80(10.50%) on the next $12760.00
+You will need to pay $135.07(12.29%) on the next $1099.00
+
+    Your income is $100000.00.
+
+    You will have to pay $17739.17 for federal tax.
+    This is 17.74% of your income.
+
+    You will have to pay $6970.68 for bc provincial tax.
+    This is 6.97% of your income.
+
+    You will have to pay a total of $24709.84 in taxes.
+    This is 24.71% of your income.
+
+    After taxes you will have $75290.16.
+
+Example 2
+What is your income: 10000
+For federal taxes:
+You will need to pay $1500.00(15.00%) on the first $10000.00
+For provincial taxes:
+You will need to pay $506.00(5.06%) on the first $10000.00
+
+    Your income is $10000.00.
+
+    You will have to pay $1500.00 for federal tax.
+    This is 15.00% of your income.
+
+    You will have to pay $506.00 for bc provincial tax.
+    This is 5.06% of your income.
+
+    You will have to pay a total of $2006.00 in taxes.
+    This is 20.06% of your income.
+
+    After taxes you will have $7994.00.
+
+Example 3
+For federal taxes:
+You will need to pay $7529.55(15.00%) on the first $50197.00
+You will need to pay $10289.97(20.50%) on the next $50195.00
+You will need to pay $14360.58(26.00%) on the next $55233.00
+You will need to pay $19164.07(29.00%) on the next $66083.00
+You will need to pay $3226836.36(33.00%) on the next $9778292.00
+For provincial taxes:
+You will need to pay $2179.34(5.06%) on the first $43070.00
+You will need to pay $3316.47(7.70%) on the next $43071.00
+You will need to pay $1339.80(10.50%) on the next $12760.00
+You will need to pay $2604.62(12.29%) on the next $21193.00
+You will need to pay $6282.49(14.70%) on the next $42738.00
+You will need to pay $10795.51(16.80%) on the next $64259.00
+You will need to pay $2003446.34(20.50%) on the next $9772909.00
+
+    Your income is $10000000.00.
+
+    You will have to pay $3278180.54 for federal tax.
+    This is 32.78% of your income.
+
+    You will have to pay $2029964.57 for bc provincial tax.
+    This is 20.30% of your income.
+
+    You will have to pay a total of $5308145.11 in taxes.
+    This is 53.08% of your income.
+
+    After taxes you will have $4691854.89.
+
+Examples 4
+What is your income: 221708
+For federal taxes:
+You will need to pay $7529.55(15.00%) on the first $50197.00
+You will need to pay $10289.97(20.50%) on the next $50195.00
+You will need to pay $14360.58(26.00%) on the next $55233.00
+You will need to pay $19164.07(29.00%) on the next $66083.00
+You will need to pay $0.00(33.00%) on the next $0.00
+For provincial taxes:
+You will need to pay $2179.34(5.06%) on the first $43070.00
+You will need to pay $3316.47(7.70%) on the next $43071.00
+You will need to pay $1339.80(10.50%) on the next $12760.00
+You will need to pay $2604.62(12.29%) on the next $21193.00
+You will need to pay $6282.49(14.70%) on the next $42738.00
+You will need to pay $9891.17(16.80%) on the next $58876.00
+
+    Your income is $221708.00.
+
+    You will have to pay $51344.17 for federal tax.
+    This is 23.16% of your income.
+
+    You will have to pay $25613.88 for bc provincial tax.
+    This is 11.55% of your income.
+
+    You will have to pay a total of $76958.06 in taxes.
+    This is 34.71% of your income.
+
+    After taxes you will have $144749.94.
